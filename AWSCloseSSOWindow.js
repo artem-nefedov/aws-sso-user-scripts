@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AWSCloseSSOWindow
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Just close the damn window...
 // @author       Artem Nefedov
 // @match        https://*.awsapps.com/start/user-consent/login-success.html

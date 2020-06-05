@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AWSClickSSOButton
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Just click the damn button...
 // @author       Artem Nefedov
 // @match        https://*.awsapps.com/start/user-consent/authorize.html?clientId=*
